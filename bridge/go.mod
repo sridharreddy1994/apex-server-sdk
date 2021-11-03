@@ -1,3 +1,3 @@
 module github.com/launchdarkly/apex-server-sdk/bridge
 
-go 1.17.2
+go 1.17
